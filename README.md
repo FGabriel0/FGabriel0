@@ -2,7 +2,7 @@
 
 ## Olá sou Fabio Gabriel👋
 #### ºSou densenvolvedor front-end👨‍💻
-#### ºAtulamente estudando react🚀
+#### ºAtualmente estudando react🚀
 #### ºQuanto mais avança a tecnologia, mais respeitado será o ser que se mantiver Humano
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-gabriel-774bb4249/)
