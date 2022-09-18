@@ -8,7 +8,9 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-gabriel-774bb4249/)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielbarrs/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FGabriel0&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FGabriel0&show_icons=true&theme=dark) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FGabriel0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias Que Utilizo Em Projetos
 <div style="display: inline_block"><br/>
