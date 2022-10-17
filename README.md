@@ -5,8 +5,9 @@
 #### ºAtualmente estudando react🚀
 #### ºQuanto mais avança a tecnologia, mais respeitado será o ser que se mantiver Humano
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-gabriel-774bb4249/)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielbarrs/)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-gabriel-774bb4249/)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FGabriel0&show_icons=true&theme=dark) 
 
