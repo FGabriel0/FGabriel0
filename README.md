@@ -2,7 +2,6 @@
 
 ## Olá sou Fabio Gabriel👋
 #### ºSou densenvolvedor front-end👨‍💻
-#### ºAtualmente estudando react🚀
 #### ºQuanto mais avança a tecnologia, mais respeitado será o ser que se mantiver Humano
 
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielbarrs/)
