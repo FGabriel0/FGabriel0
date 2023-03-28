@@ -8,10 +8,6 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f%C3%A1bio-gabriel-774bb4249/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FGabriel0&show_icons=true&theme=dark) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FGabriel0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tecnologias Que Utilizo Em Projetos
 <div style="display: inline_block"><br/>
 <img aling="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
