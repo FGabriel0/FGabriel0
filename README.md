@@ -1,7 +1,7 @@
 
 
 ## Olá sou Fabio Gabriel👋
-#### ºSoftWare Developer |Front-end 💻
+#### ºWeb Developer |Front-end 💻
 #### ºQuanto mais avança a tecnologia, mais respeitado será o ser que se mantiver Humano
 
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielbarrs/)
