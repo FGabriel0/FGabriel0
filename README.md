@@ -1,19 +1,15 @@
 # Olá, sou o Fábio Gabriel 👋
 <table> 
-<tr> 
-  <td valign="center"> 
+<td valign="center"> 
+  
+  🎓 Atualmente estou cursando *Bacharelado em Ciência da Computação*.
 
-    🎓 Atualmente estou cursando *Bacharelado em Ciência da Computação*.
+  🌱 Atualmente estou aprendendo *React-hooks*  e também interessado em *Desenvolvimento Web*.
 
-    🌱 Atualmente estou aprendendo *React-hooks*  e também interessado em *Desenvolvimento Web*.
+  🎯 Meu objetivo é contribuir com o maior número possível de *projetos de código aberto*.
 
-    🎯 Meu objetivo é contribuir com o maior número possível de *projetos de código aberto*.
-
-    ✨ Adoro criar diferentes tipos de *conteúdo*. 
-<td > 
-<a href="https://app.daily.dev/Bielbarrs"><img src="https://api.daily.dev/devcards/065ec401032547b49b2d51e01efd85b1.png?r=0sn" width="400" alt="Fabio Gabriel's Dev Card"/></a>   </td>
-</tr> 
-<td>
+  ✨ Adoro criar diferentes tipos de *conteúdo*. 
+    
 
 ## Connect With Me📲
 
