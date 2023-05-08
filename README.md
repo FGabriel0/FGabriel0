@@ -4,7 +4,7 @@
   
   🎓 Atualmente estou cursando *Bacharelado em Ciência da Computação*.
 
-  🌱 Atualmente estou aprendendo *React-hooks*  e também interessado em *Desenvolvimento Web*.
+  🌱 Atualmente estou aprendendo *React*  e também interessado em *Desenvolvimento Web*.
 
   🎯 Meu objetivo é contribuir com o maior número possível de *projetos de código aberto*.
 
