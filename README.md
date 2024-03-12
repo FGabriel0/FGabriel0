@@ -2,13 +2,13 @@
 <table> 
 <td valign="center"> 
   
-  🎓 Atualmente estou cursando *Bacharelado em Ciência da Computação*.
+🎓 I'm currently studying a Bachelor's degree in *Computer Science*.
 
-  🌱 Atualmente estou aprendendo *Java*  e também interessado em *Desenvolvimento Web*.
+🌱 I'm currently learning *Java* and also interested in Web Development.
 
-  🎯 Meu objetivo é contribuir com o maior número possível de *projetos de código aberto*.
+🎯 My goal is to contribute to as many open source projects as possible.
 
-  ✨ Adoro criar diferentes tipos de *conteúdo*. 
+✨ I love creating different types of content. 
     
 
 ## Connect With Me📲
